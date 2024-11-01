@@ -29,8 +29,8 @@ h1 {
   -webkit-text-fill-color: transparent;
   opacity: 0.9;
   text-transform: uppercase;
-  font-size: 30vw;
-  line-height: 30vw;
+  font-size: min(30vw, 10vw);
+  line-height: min(30vw, 10vw);
   width: 100vw;
   text-align: center;
   user-select: none;
