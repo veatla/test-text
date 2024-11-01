@@ -29,10 +29,11 @@ h1 {
   -webkit-text-fill-color: transparent;
   opacity: 0.9;
   text-transform: uppercase;
-  font-size: min(30vw, 10vw);
-  line-height: min(30vw, 10vw);
+  font-size: 20vh;
+  line-height: 20vh;
   width: 100vw;
   text-align: center;
   user-select: none;
   text-shadow: 5px 5px 10px rgba(0, 0, 0, 0.1);
+  margin-top: 0;
 }
